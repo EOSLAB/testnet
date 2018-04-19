@@ -2,4 +2,4 @@
 
 cleos create account eosio alex <TODO> <TODO>
 cleos create account eosio rajita EOS84bsvjREv6YVSLuiZEBu8BKnTQzyCkMLETs4vf9wT8HgQjpnd2 EOS51s8v4eWH1tPMXW9fUek9ZnRMHADBeuLSAzup6VU2SokuhdVJw
-cleos create account eosio michael <TODO> <TODO>
+cleos create account eosio michael EOS7CUvwAta4F9J6eMGswfkDTvGHGJSh37vDRVTPYhbTqNc8SSZQ8 EOS7CUvwAta4F9J6eMGswfkDTvGHGJSh37vDRVTPYhbTqNc8SSZQ8
