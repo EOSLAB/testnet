@@ -1,3 +1,6 @@
+When you run into a boost error during build (happening with ubuntu build as of 4.19.18)
+
+```
 $ cd ~
 $ mkdir boost
 $ cd boost/
@@ -14,3 +17,4 @@ $ cp libboost_system.a ~/opt/boost_1_66_0/lib/.
 $ cp libboost_chrono.a ~/opt/boost_1_66_0/lib/.
 $ cd ~/eos
 $ ./eosio_build.sh
+```
