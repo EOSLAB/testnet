@@ -1,3 +1,3 @@
-# EOSoCal Testnet
+# EOS.SOCAL Testnet
 
-This is Michael testing to see if he can add files.
+Files and process for launching the EOS.SOCAL local testnet.
