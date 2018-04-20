@@ -3,7 +3,7 @@
     "producers": [
       {
         "producer_name": "alex",
-        "block_signing_key": "<TODO>"
+        "block_signing_key": "EOS6Db7xTEMMAXTqSSmBDnhD3XX924zqK9yGLVfZKjrDAarrY48f1"
       },
       {
         "producer_name": "rajita",
