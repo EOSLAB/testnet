@@ -1,6 +1,6 @@
 #!/bin/bash
 
 cleos set contract eosio \
-  contracts/eosio.bios \
-  contracts/eosio.bios/eosio.bios.wast \
-  contracts/eosio.bios/eosio.bios.abi
+  ~/testnet/contracts/eosio.bios \
+  ~/testnet/contracts/eosio.bios/eosio.bios.wast \
+  ~/testnet/contracts/eosio.bios/eosio.bios.abi

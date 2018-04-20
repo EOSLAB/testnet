@@ -2,12 +2,12 @@
 
 # eosio.system
 cleos set contract eosio \
-  contracts/eosio.system \
-  contracts/eosio.system/eosio.system.wast \
-  contracts/eosio.system/eosio.system.abi
+  ~/testnet/contracts/eosio.system \
+  ~/testnet/contracts/eosio.system/eosio.system.wast \
+  ~/testnet/contracts/eosio.system/eosio.system.abi
 
 # eosio.token
 cleos set contract eosio \
-  contracts/eosio.token \
-  contracts/eosio.token/eosio.token.wast \
-  contracts/eosio.token/eosio.token.abi
+  ~/testnet/contracts/eosio.token \
+  ~/testnet/contracts/eosio.token/eosio.token.wast \
+  ~/testnet/contracts/eosio.token/eosio.token.abi

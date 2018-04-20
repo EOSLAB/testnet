@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cleos push action eosio setprods ./data/setprods.json -p eosio@active
+cleos push action eosio setprods ~/testnet/data/setprods.json -p eosio@active
